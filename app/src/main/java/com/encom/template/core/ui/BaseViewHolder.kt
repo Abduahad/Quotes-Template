@@ -1,4 +1,4 @@
-package com.encom.template.core
+package com.encom.template.core.ui
 
 import android.content.Context
 import android.view.View
