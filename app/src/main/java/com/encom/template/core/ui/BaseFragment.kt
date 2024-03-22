@@ -1,4 +1,4 @@
-package com.encom.template.core
+package com.encom.template.core.ui
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
